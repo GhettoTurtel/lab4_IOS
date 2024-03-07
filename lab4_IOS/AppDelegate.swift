@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  lab4_IOS
-//
-//  Created by Damir Tansykov on 07.03.2024.
-//
-
 import UIKit
 
 @main
